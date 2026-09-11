@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Aclonica&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+:root {
+  --fonte-principal: "Aclonica", "Sans-serif";
+  --fonte-texto: "Lato", "Sans-serif";
+
+  --cor-branco:#ffffff;
+  --cor-marrom-escuro: #3C2415;
+  --cor-laranja: #FF934F;
+  
+}
+
+body {
+background-color: var(--cor-marrom-escuro);
+font-family: var(--fonte-texto);
+
+}
